@@ -1,5 +1,6 @@
 <h1 align="center">Hola! 👋, Soy Jhony</h1>
 <h3 align="center">Un simple apasionado de la microelectrónica y la programación.</h3>
+<h4 align="center"> Estudiante de Ing. de Computadores | Java & C developer | Linux aficcionado</h4>
 
 - 💬 Ask me about **C, Rust, Java**
 
